@@ -3,7 +3,7 @@ def matrix():
   data = ""
   for i in range(3):
     row = input("Enter row {}: ".format(i+1))       # Taking input from user
-    data +=row        #Concatinating the elements
+    data += row        #Concatinating the elements
     if i != 2:
       data += " ; "
   print()

@@ -8,4 +8,5 @@ for i in range(len(str)):
     else:
         continue
 print()
+print()
 print(count)

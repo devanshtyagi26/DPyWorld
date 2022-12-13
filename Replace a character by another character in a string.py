@@ -9,4 +9,5 @@ for i in range(len(str)):
     else:
         str1 += rep
 print()
+print()
 print(str1)

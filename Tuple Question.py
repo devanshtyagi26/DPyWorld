@@ -27,3 +27,4 @@ print()
 
 print("Return maximum and minimum value from this tuple")
 print("Maximum:",max(t1), "\nMinimum:", min(t1))
+print(" \nThanks for using this program... \nMade by Devansh Tyagi")

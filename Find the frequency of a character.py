@@ -9,3 +9,4 @@ for i in range(len(str)):
         continue
 print()
 print(count)
+print(" \nThanks for using this program... \nMade by Devansh Tyagi")

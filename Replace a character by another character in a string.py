@@ -10,3 +10,4 @@ for i in range(len(str)):
         str1 += rep
 print()
 print(str1)
+print(" \nThanks for using this program... \nMade by Devansh Tyagi")

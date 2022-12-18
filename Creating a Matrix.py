@@ -8,3 +8,4 @@ data = r1 + " ; " + r2 + ' ; ' + r3
 print("\n Data: ",data) 
 m = np.matrix(data)
 print("\n",m)
+print(" \nThanks for using this program... \nMade by Devansh Tyagi")

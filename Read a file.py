@@ -14,3 +14,5 @@ print("Number of characters:", len(char))
 print("Number of lines:", len(line))
 print("Number of words:", word)
 f.close()
+
+print(" \nThanks for using this program... \nMade by Devansh Tyagi")

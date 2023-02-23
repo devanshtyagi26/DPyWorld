@@ -1,0 +1,10 @@
+sudo su
+yum update -y
+yum install httpd -y
+pwd
+cd /var/www/html
+ls
+wget (object url s3)
+unzip fname.zip
+mv fname/* .
+service httpd start
